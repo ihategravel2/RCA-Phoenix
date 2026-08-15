@@ -45,7 +45,7 @@ This is my version of a left/right RCA adapter for Extron CrossPoint units.
 
 The adapter sits below the vertical BNC jack without blocking access to it.
 
-<img width="600" height="800" alt="RCA–Phoenix adapter in its normal installed position with the vertical BNC jack unobstructed" src="images/rca-phoenix-normal-installation.jpg" />
+<img width="800" height="600" alt="RCA–Phoenix adapter in its normal installed position with the vertical BNC jack unobstructed" src="images/rca-phoenix-normal-installation.jpg" />
 
 ### Cable Strain Test
 
