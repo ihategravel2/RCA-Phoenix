@@ -41,6 +41,14 @@ This is my version of a left/right RCA adapter for Extron CrossPoint units.
 
 ## Pre-Release Version
 
-> **Cable strain test:** The cable is intentionally pulling down on the adapter in this photo. This is not its normal resting position.
+### Normal Installed Position
+
+The adapter sits below the vertical BNC jack without blocking access to it.
+
+<img width="600" height="800" alt="RCA–Phoenix adapter in its normal installed position with the vertical BNC jack unobstructed" src="images/rca-phoenix-normal-installation.jpg" />
+
+### Cable Strain Test
+
+The cable is intentionally pulling down on the adapter in this photo. This is not its normal resting position.
 
 <img width="4000" height="3000" alt="Pre-release RCA–Phoenix adapter during a cable strain test" src="https://github.com/user-attachments/assets/0c179338-960c-46f7-aacf-75195bebed18" />
