@@ -41,4 +41,6 @@ This is my version of a left/right RCA adapter for Extron CrossPoint units.
 
 ## Pre-Release Version
 
-<img width="4000" height="3000" alt="Pre-release RCA–Phoenix adapter" src="https://github.com/user-attachments/assets/0c179338-960c-46f7-aacf-75195bebed18" />
+> **Cable strain test:** The cable is intentionally pulling down on the adapter in this photo. This is not its normal resting position.
+
+<img width="4000" height="3000" alt="Pre-release RCA–Phoenix adapter during a cable strain test" src="https://github.com/user-attachments/assets/0c179338-960c-46f7-aacf-75195bebed18" />
