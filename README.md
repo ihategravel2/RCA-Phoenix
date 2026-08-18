@@ -1,9 +1,11 @@
 
 # RCA–Phoenix Adapter
 
-This is my version of a left/right RCA adapter for Extron CrossPoint units.
+A compact, low-profile stereo RCA-to-Phoenix adapter PCB for Extron CrossPoint matrix switchers. It preserves access to the adjacent vertical BNC jack and uses the 1 kΩ resistor topology from the Extron CSM 6 for bidirectional analog-audio operation.
 
-> **Disclaimer:** The photos show a pre-release version. The version included in this repository has not been physically tested.
+This repository includes fabrication-ready Gerber files, a bill of materials, assembly information, and reference photos.
+
+> **Project status:** The repository contains a revised design that has not yet been physically tested. The installed-unit photos show the pre-release version.
 
 ## Features
 
