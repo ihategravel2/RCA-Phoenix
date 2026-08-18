@@ -52,3 +52,16 @@ The adapter sits below the vertical BNC jack without blocking access to it.
 The cable is intentionally pulling down on the adapter in this photo. This is not its normal resting position.
 
 <img width="4000" height="3000" alt="Pre-release RCA–Phoenix adapter during a cable strain test" src="https://github.com/user-attachments/assets/0c179338-960c-46f7-aacf-75195bebed18" />
+
+## License
+
+Unless otherwise stated, the hardware design, fabrication files, and
+documentation in this repository are licensed under the
+[CERN Open Hardware Licence Version 2 – Permissive](LICENSE)
+(`CERN-OHL-P-2.0`).
+
+This permits use, modification, distribution, and manufacture—including
+commercial use—subject to the licence's notice requirements. The design is
+provided without warranty.
+
+Copyright © 2026 ihategravel2.
